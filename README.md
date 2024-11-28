@@ -1,12 +1,9 @@
 ## Hi there 👋
 ---
 ## Projects 
-- [GalaTelecast]() - DiscordJS Bot [^1]
-[^1]: Also converted to Python.
+- [GalaTelecast]() - DiscordJS Bot
 - [Dynasty Realms]() - FlexSDK + C# Project
-- [Tidan Realms]() - FlexSDK + C# Project [^2]
-[^2]: Co-Dev.
-- [Svera]() - FlexSDK + C# Project [^3]
-[^3]: Co-Dev.
+- [Tidan Realms]() - FlexSDK + C# Project 
+- [Svera]() - FlexSDK + C# Project 
 ---
 ## Certificates
