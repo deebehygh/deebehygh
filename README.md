@@ -12,5 +12,6 @@ I’ve always had a passion for computers and everything related to technology. 
 - Tidan Realms
 - Svera
   - Unavailable: Private Source
+- [Private Nexus](https://github.com/ImTacx/realmdex)
 
 ## Certificates
