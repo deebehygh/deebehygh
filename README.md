@@ -6,7 +6,7 @@ I’ve always had a passion for computers and everything related to technology. 
 > Always look at `README.md` before starting anything.
 
 ## Projects & Collabs
-- GalaTelecast
+- [GalaTelecast](https://github.com/deebehygh/GalacTelecast)
 - Dynasty Realms
   - Unavailable: Private Source
 - Tidan Realms
