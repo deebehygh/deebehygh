@@ -18,3 +18,5 @@ I’ve always had a passion for computers and everything related to technology. 
 
 
 ## Certificates
+> [!ERROR]
+> Failed to load certificates. Are you sure you have any.
