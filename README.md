@@ -9,8 +9,8 @@ I’ve always had a passion for computers and everything related to technology. 
 
 ## Projects & Collabs
 - [GalaTelecast](https://github.com/deebehygh/GalacTelecast)
-- Tidan Realms
 - [Private Nexus](https://github.com/ImTacx/realmdex)
+- [Hygh Duties](https://github.com/deebehygh/Hygh-Tasks)
 - Svera
   - Unavailable: Private Source
 - Dynasty Realms
