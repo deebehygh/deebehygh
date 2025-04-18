@@ -1,20 +1,40 @@
-# Hi, DeeBeHygh Here!
+# Hi, I'm DeeBeHygh!
 
-I’ve always had a passion for computers and everything related to technology. I love exploring how things work, solving problems, and building solutions through code. I'm constantly learning and improving my skills, striving to grow as a developer and expand my knowledge. Hard work and dedication drive me, and I enjoy creating projects that challenge me and push my abilities further.
+I'm a passionate developer with a deep love for computers and technology. I enjoy diving into how things work, solving complex problems, and building meaningful solutions through code. I'm always learning, pushing boundaries, and striving to grow as a developer.
 
-> [!TIP]
-> Always look at `README.md` before starting anything.
+> **Note**  
+> Before jumping into anything, make sure to check the `README.md` of each project — it often holds the keys.
 
-## Projects & Collabs
-- [GalaTelecast](https://github.com/deebehygh/GalacTelecast)
-- [Private Nexus](https://github.com/ImTacx/realmdex)
-- [Hygh Duties](https://github.com/deebehygh/Hygh-Tasks)
-- Svera
-- Dynasty Realms
-  
-> [!WARNING]
-> The projects `Dynasty Realms` and `Svera UTR` are private due to both still currently existing. 
+---
 
-## Certificates
-> [!CAUTION]
-> Failed to load certificates. Are you sure you have any.
+## **Projects & Collaborations**
+Here are a few cool things I’ve worked on or contributed to:
+
+- [**GalaTelecast**](https://github.com/deebehygh/GalacTelecast)  
+  A unique broadcasting framework with dynamic real-time capabilities.
+
+- [**Private Nexus**](https://github.com/ImTacx/realmdex)  
+  A collaborative hub for private server development (in partnership with ImTacx).
+
+- [**Hygh Duties**](https://github.com/deebehygh/Hygh-Tasks)  
+  Task and workflow manager focused on clean structure and productivity.
+
+- **Svera**  
+  Experimental systems for hybrid server networking.
+
+- **Dynasty Realms**  
+  A custom MMORPG bullet hell experience currently in active development.
+
+> **Warning**  
+> `Svera` and `Dynasty Realms` are private repositories due to ongoing development and active deployment.
+
+---
+
+## **Certificates**
+> **Oops!**  
+> Failed to load certificates...  
+> _(Either they’re top secret or still in the works.)_
+
+---
+
+Thanks for checking out my profile. Let’s build something awesome!
